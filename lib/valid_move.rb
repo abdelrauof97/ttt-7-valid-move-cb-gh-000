@@ -17,4 +17,6 @@ def valid_move?
         return true
     end
 end
+position_taken?(board, 2)
 valid_move?
+
