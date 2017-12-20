@@ -18,3 +18,4 @@ def valid_move?(board, index)
     end
 end
 valid_move?(board, 2)
+puts valid_move?(board, 2)
