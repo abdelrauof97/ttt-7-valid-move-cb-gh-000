@@ -17,4 +17,4 @@ def valid_move?(index)
         return true
     end
 end
-valid_move?(1)
+valid_move?
